@@ -4,7 +4,7 @@
 
 using namespace std;
                         //JAIME J TOLEDO  17-06-2021
-string libros[20][4];
+string libros[20][3];
 
 
 void cargarLibros() {
